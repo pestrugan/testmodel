@@ -1,0 +1,11 @@
+Model Information:
+* title:	( FREE ) Lamborghini Centenario LP-770
+* source:	https://sketchfab.com/3d-models/free-lamborghini-centenario-lp-770-29b970481b7e4517844c4e1609b98b65
+* author:	SDC (https://sketchfab.com/3Duae)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "( FREE ) Lamborghini Centenario LP-770" (https://sketchfab.com/3d-models/free-lamborghini-centenario-lp-770-29b970481b7e4517844c4e1609b98b65) by SDC (https://sketchfab.com/3Duae) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
